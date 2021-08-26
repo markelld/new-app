@@ -1,0 +1,3 @@
+[submodule "ts-app"]
+	path = ts-app
+	url = https://github.com/markelld/Tailwind-X-Typescript-React.git
